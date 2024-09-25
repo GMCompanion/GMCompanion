@@ -1,0 +1,6 @@
+[submodule "GMCompanion.Api"]
+	path = GMCompanion.Api
+	url = git@github.com:GMCompanion/GMCompanion.Api.git
+[submodule "GMCompanion.Web"]
+	path = GMCompanion.Web
+	url = https://github.com/GMCompanion/GMCompanion.Web
